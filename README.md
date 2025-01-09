@@ -4,6 +4,7 @@
 ![pear summary map color](https://raw.githubusercontent.com/PacificBird/GIS_Portfolio/master/img/tfrec_work/poster_color.png)  
 
 ## Cartographic Modeling
+![yakima connectivity](https://raw.githubusercontent.com/PacificBird/GIS_Portfolio/master/img/yakima_connectivity.png)  
 ![vineyard suitability model](https://raw.githubusercontent.com/PacificBird/GIS_Portfolio/master/img/vineyard_suitability_model.png)  
 ![ponderosa replanting model](https://raw.githubusercontent.com/PacificBird/GIS_Portfolio/master/img/ponderosa_replanting_model.png)  
 ![helipad suitability model](https://raw.githubusercontent.com/PacificBird/GIS_Portfolio/master/img/helipad_cartographic_model.png)  
